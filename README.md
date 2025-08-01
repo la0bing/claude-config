@@ -1,7 +1,5 @@
-# claude-config
-Personal Configuration of Claude Code
-
 # How to add to new machine
+> ⚠️ Make sure you have [`node`](https://nodejs.org/en/download) and [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed before starting
 
 ## 1. Install Claude Code
 Setup link [here](https://docs.anthropic.com/en/docs/claude-code/setup).
